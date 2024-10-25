@@ -23,7 +23,7 @@ This Python-based application monitors the stock price of a specific company (e.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sharif24with6/project1.git
+git clone https://github.com/sharif24with40/project1.git
 cd stock-news-alert
 ```
 
